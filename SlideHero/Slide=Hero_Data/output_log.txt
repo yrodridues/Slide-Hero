@@ -1,0 +1,45 @@
+Initialize engine version: 5.4.1f1 (649f48bbbf0f)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: Intel(R) HD Graphics 630 (ID=0x5912)
+    Vendor:   Intel
+    VRAM:     2032 MB
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\Assembly-UnityScript.dll (this message is harmless)
+Loading C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\Assembly-UnityScript.dll into Unity Child Domain
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.230 seconds
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\yuri\Desktop\Slide=Hero_Data\Managed\System.dll (this message is harmless)
+desktop: 1600x900 60Hz; virtual: 1600x900 at 0,0
+<RI> Initializing input.
+XInput1_3.dll not found. Trying XInput9_1_0.dll instead...
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.861524 ms
+Setting up 1 worker threads for Enlighten.
+  Thread -> id: 22fc -> priority: 1 
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 8.806736 ms
+
+Unloading 5 unused Assets to reduce memory usage. Loaded Objects now: 207.
+Total: 0.159743 ms (FindLiveObjects: 0.008191 ms CreateObjectMapping: 0.011605 ms MarkObjects: 0.134485 ms  DeleteObjects: 0.004437 ms)
+
+Unloading 2 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.578901 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 229.
+Total: 0.267263 ms (FindLiveObjects: 0.017066 ms CreateObjectMapping: 0.012629 ms MarkObjects: 0.228693 ms  DeleteObjects: 0.008191 ms)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 0.369663 ms
+
+Unloading 3 unused Assets to reduce memory usage. Loaded Objects now: 333.
+Total: 0.231765 ms (FindLiveObjects: 0.026282 ms CreateObjectMapping: 0.010922 ms MarkObjects: 0.189439 ms  DeleteObjects: 0.004778 ms)
+
